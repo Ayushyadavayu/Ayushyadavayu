@@ -1,15 +1,15 @@
-# 💫  **__Hello__** 👋, **__I'm__**  ***___Ayush Yumar___***
+# 💫  **__Hello__** 👋, **__I'm__**  ***___Ayush Kumar___***
 
 ## A passionate **__Full Stack Developer__** | **__Python Developer__** | **__AI & ML Student__** from **_Krishna Institute of Technology (KIOT)_**, **__Kanpur Nagar.__**
 
-📧 *__Email Me__*  👉 ✉️ ***__vashurajak660@gmail.com__*** for Collaboration, _Projects_, or **_Tech Discussions._** 😊
+📧 *__Email Me__*  👉 ✉️ ***__ayushyadavayu63072@gmail.com__*** for Collaboration, _Projects_, or **_Tech Discussions._** 😊
 
 - 🔭  **_I’m currently working on_**: **_Full Stack Web Development_** Projects <br>
-- 🌱 **_I’m_ currently learning**: **_Flask, MySQL, Git & GitHub, DSA_** <br>
+- 🌱 **_I’m_ currently learning**: **_Flask, MySQL, Git & GitHub, Cybersecurity in Al,DSA_** <br>
 - 👯 **_I’m_ looking to collaborate on**: **_Python_** & **_Full Stack_ Projects_** <br>
 - 🤔 **_I’m_ looking for help with: __Open Source Contributions_** <br>
-- 💬 **__Ask me about__**: **_Python_**, **_Flask_**, **_HTML_**, **_CSS_**, **SQLite**, **Git** <br>
-- 📫 **_How to reach me_**: **_vashurajak660@gmail.com_** <br>
+- 💬 **__Ask me about__**: **_Python_**, **_C++_**, **_HTML_**, **_CSS_**, **SQLite**, **Git** <br>
+- 📫 **_How to reach me_**: **_ayushyadavayu63072@gmail.com_** <br>
 - 😄 **_Pronouns_**: **__He/Him__** <br>
 - ⚡ **__Fun fact__**: **__I love turning ideas into real-world applications through code.__**
 
