@@ -14,7 +14,7 @@
 - ⚡ **__Fun fact__**: **__I love turning ideas into real-world applications through code.__**
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vashu Rajak&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ayush yadavayu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
